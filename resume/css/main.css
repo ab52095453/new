@@ -1,0 +1,195 @@
+#header{
+    background: url(../images/bg.jpg) no-repeat center top fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.nav-box{
+    height: 70px;
+}
+.navbar-fixed-top{
+    top: -51px;
+    left: 0;
+    opacity: 0;
+}
+.navbar-default{
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+.navbar-nav{
+    float: right;
+}
+.intro-section{
+    margin-top: 150px;
+}
+.intro {
+    color: #ffffff;
+}
+h1 {
+    font-size: 3.813rem;
+    line-height: 4.75rem;
+    font-weight: 700;
+}
+.intro-section p{
+    font-size: 20px;
+    padding-right: 10%;
+    padding-left: 10%;
+    color: #ffffff;
+    margin-top: 25px;
+    line-height: 30px;
+}
+.intro-section p span{
+    font-weight: 700;
+    color: #FF6B6B;
+}
+.sf-container {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    margin-bottom: 137px;
+    margin-top: 50px;
+}
+.sf-container button{
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 3px;
+    padding: 15px 30px;
+    border: 0;
+    margin:  10px 0 10px 200px;
+    background: #FF6B6B;
+    color: #ffffff;
+}
+.sf-container button:hover{
+    background: #20ADB3;
+}
+.section1,.section2,.section5,.section6,.section7{
+    margin-top: 50px;
+}
+h2{
+    font-size: 2.188rem;
+    line-height: 3.125rem;
+    font-weight: 500;
+    text-align: center;
+}
+.color-line{
+    height: 1px;
+    width: 70px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: #FF6B6B;
+}
+.section1 p,.section4 p{
+    text-align: center;
+    line-height: 2.4;
+    color: #999999;
+}
+.section2{
+    background: url(../images/s2bg.jpg) no-repeat center top fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    height: 400px;
+}
+.blue-bg {
+    background-color: #32c5d2;
+}
+.skill{
+    margin-top: 35px;
+}
+.icon{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    text-align: center;
+}
+.icon-box{
+    position: relative;
+    height: 120px;
+    width: 200px;
+    margin: 0 auto;
+    border: 2px solid #ffffff;
+}
+.icon-box img{
+    position: absolute;
+    top: 10px;
+    left: 60px;
+}
+.section5 p{
+    text-align: center;
+    line-height: 2.4;
+    color: #999999;
+
+}
+.text{
+    text-align: center;
+    border-color: #999999;
+}
+.text img{
+    width: 9rem;
+    transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in; /* Firefox 4 */
+    -webkit-transition: all 1s ease-in; /* Safari 和 Chrome */
+    -o-transition: all 1s ease-in; /* Opera */
+}
+.text img:hover{
+    transform:rotate(180deg);
+    -ms-transform:rotate(180deg); 	/* IE 9 */
+    -moz-transform:rotate(180deg); 	/* Firefox */
+    -webkit-transform:rotate(180deg); /* Safari 和 Chrome */
+    -o-transform:rotate(180deg); 	/* Opera */
+}
+.section6{
+    background: url(../images/shu.jpg) no-repeat  center top fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    height: 400px;
+}
+.pic-left{
+    float: left;
+}
+.pic-left img{
+    width: 100%;
+    height: 80%;
+}
+.section7 p{
+    text-align: center;
+    line-height: 2.4;
+    color: #999999;
+}
+.icon-list{
+    margin-top: 20px;
+    text-align: center;
+}
+li {
+    list-style: none;
+}
+.icon-container{
+    width: 40px;
+    height: 40px;
+    border-radius: 3px;
+    color: #ffffff;
+    line-height: 32px;
+    margin-left: 150px;
+    margin-top: 5px;
+    text-align: center;
+    background: #FF6B6B;
+}
+.black-bg{
+    background-color: #333;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+.contact{
+    margin: 0 auto;
+    text-align: center;
+    line-height: 2.4;
+}
+.contact i{
+    color: white;
+}
+.contact i:hover{
+    opacity: 0.6;
+}
+.contact span{
+    color: #999999;
+    margin-left: 20px;
+}
